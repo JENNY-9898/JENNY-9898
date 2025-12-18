@@ -1,8 +1,7 @@
-<img src="images/banner.png" width="100%" />
-
 <p align="center">
-  <img src="images/banner.png" alt="Data Analytics Banner" width="100%" />
+  <img src="./images/banner.png" width="100%" />
 </p>
+
 
 <h1 align="center">Hi, I'm Jennifer 👋</h1>
 <h3 align="center">Data Analyst | Python • SQL • Power BI • Java</h3>
@@ -53,7 +52,7 @@ I specialize in transforming raw data into **clear insights, dashboards, and act
 
 ### 📉 Churn Analysis Dashboard (Power BI)
 <p align="center">
-  <img src="images/powerbi_churn_dashboard.png" width="85%" />
+  <img src="./images/powerbi_churn_dashboard.png" width="85%" />
 </p>
 
 **Insights Delivered**
@@ -65,7 +64,7 @@ I specialize in transforming raw data into **clear insights, dashboards, and act
 
 ### 🐍 Python Data Analysis
 <p align="center">
-  <img src="images/python_visuals.png" width="85%" />
+  <img src="./images/python_visuals.png" width="85%" />
 </p>
 
 - Exploratory Data Analysis (EDA)
@@ -76,7 +75,7 @@ I specialize in transforming raw data into **clear insights, dashboards, and act
 
 ### 🗄️ SQL Business Queries
 <p align="center">
-  <img src="images/sql_analysis.png" width="85%" />
+  <img src="./images/sql_analysis.png" width="85%" />
 </p>
 
 - Revenue & churn metrics
