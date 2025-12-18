@@ -1,88 +1,123 @@
-## Hi, I'm Jennifer 👋  
+<!-- PROFILE BANNER -->
+<p align="center">
+  <img src="images/banner.png" alt="Data Analytics Banner" width="100%" />
+</p>
 
-### 📊 Data Analyst | Business Insights | Problem Solving  
+<h1 align="center">Hi, I'm Jennifer 👋</h1>
+<h3 align="center">Data Analyst | Python • SQL • Power BI • Java</h3>
 
-I’m a **Data Analyst** focused on solving real business problems using data — from **customer churn** and **revenue decline** to **growth optimization** and **operational efficiency**.
-
-I work closely with stakeholders to translate business questions into data-driven solutions that lead to **measurable impact**.
-
-🌍 Open to **international collaboration & remote projects**
-
----
-
-## 🧠 What I Specialize In
-
-- Identifying **root causes** behind business problems
-- Customer **churn analysis & retention strategies**
-- KPI design and performance tracking
-- Data storytelling for non-technical stakeholders
-- Turning messy data into clear business insights
+<p align="center">
+  <i>Solving business problems using data-driven insights</i>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 About Me
+
+I’m a **Data Analyst** with a strong focus on **problem solving and business impact**.  
+I specialize in transforming raw data into **clear insights, dashboards, and actionable recommendations** that support decision-making.
+
+🌍 Open to **international collaboration**, **remote projects**, and **data-driven startups**.
+
+---
+
+## 🧠 What I Do Best
+
+<p align="center">
+  <img src="images/analysis_flow.png" width="80%" />
+</p>
+
+- 📉 Customer churn & retention analysis  
+- 📊 KPI design and performance tracking  
+- 🔍 Root-cause analysis & data storytelling  
+- 📈 Business dashboards for stakeholders  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="images/tech_stack.png" width="70%" />
+</p>
 
 - 🐍 **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 - 🗄️ **SQL** (Joins, CTEs, Window Functions)
-- 📊 **Power BI** (DAX, interactive dashboards)
-- ☕ **Java** (data processing & backend logic)
+- 📊 **Power BI** (DAX, Interactive Dashboards)
+- ☕ **Java** (Data Processing & Backend Logic)
 - 🔧 Git & GitHub
 
 ---
 
-## 📈 Featured Business-Focused Projects
+## 📊 Featured Visual Work
 
-### 🔴 Customer Churn Analysis (End-to-End)
-**Problem:** High customer churn impacting recurring revenue  
-**Solution:**
-- Analyzed customer behavior and usage patterns
-- Identified churn drivers using Python & SQL
-- Built a Power BI dashboard highlighting at-risk segments
-- Provided data-backed retention recommendations
+### 📉 Churn Analysis Dashboard (Power BI)
+<p align="center">
+  <img src="images/powerbi_churn_dashboard.png" width="85%" />
+</p>
 
-📌 *Skills:* Python, SQL, Power BI, Business Analysis
-
----
-
-### 🟢 Sales Performance Optimization
-**Problem:** Inconsistent sales performance across regions  
-**Solution:**
-- Cleaned and analyzed multi-region sales data
-- Designed KPIs (conversion rate, ARPU, growth rate)
-- Built executive dashboards in Power BI
-- Identified underperforming regions and growth opportunities
-
-📌 *Skills:* SQL, Power BI, KPI Design
+**Insights Delivered**
+- Identified high-risk customer segments
+- Revealed churn drivers linked to usage and billing
+- Supported retention strategy decisions
 
 ---
 
-### 🔵 Customer Segmentation for Growth
-**Problem:** One-size-fits-all marketing strategy  
-**Solution:**
-- Segmented customers using behavioral data
-- Identified high-value and high-risk segments
-- Provided targeted marketing recommendations
+### 🐍 Python Data Analysis
+<p align="center">
+  <img src="images/python_visuals.png" width="85%" />
+</p>
 
-📌 *Skills:* Python, Data Analysis, Business Strategy
+- Exploratory Data Analysis (EDA)
+- Trend analysis & correlations
+- Clean, reproducible insights
 
 ---
 
-## 🤝 Why Work With Me?
+### 🗄️ SQL Business Queries
+<p align="center">
+  <img src="images/sql_analysis.png" width="85%" />
+</p>
 
-- Strong **business mindset**, not just technical skills
-- Clear communication of insights and recommendations
-- Experience working with **realistic business scenarios**
-- Reliable, collaborative, and deadline-focused
+- Revenue & churn metrics
+- Customer segmentation queries
+- Performance optimization
+
+---
+
+## 📁 Featured Projects
+
+| Project | Business Problem | Tools |
+|------|----------------|------|
+| Customer Churn Analysis | Reduce customer loss | Python, SQL, Power BI |
+| Sales Performance Dashboard | Identify growth opportunities | Power BI, SQL |
+| Customer Segmentation | Improve targeting | Python, SQL |
+| Data Automation Tools | Improve efficiency | Java, Python |
+
+---
+
+## 🤝 Why Collaborate With Me?
+
+✔ Strong **business-first mindset**  
+✔ Clear communication & storytelling  
+✔ Visually compelling dashboards  
+✔ Reliable and collaborative team member  
 
 ---
 
 ## 📫 Contact
-- 📧 Email: jennifernwaadike8@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
-⭐ Let’s solve meaningful business problems with data.
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile — let’s build data-driven solutions together.
+</p>
 
-
--->
