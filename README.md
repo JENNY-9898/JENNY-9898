@@ -1,4 +1,5 @@
-<!-- PROFILE BANNER -->
+<img src="images/banner.png" width="100%" />
+
 <p align="center">
   <img src="images/banner.png" alt="Data Analytics Banner" width="100%" />
 </p>
