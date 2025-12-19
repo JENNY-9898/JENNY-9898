@@ -1,123 +1,112 @@
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="./images/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.png" />
 </p>
 
+<h1 align="center">Hi, I’m Jenny 👋</h1>
 
-<h1 align="center">Hi, I'm Jennifer 👋</h1>
-<h3 align="center">Data Analyst | Python • SQL • Power BI • Java</h3>
+<h3 align="center">
+Data Analyst | Excel • Power BI • Python • SQL
+</h3>
 
 <p align="center">
-  <i>Solving business problems using data-driven insights</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=500&lines=Data+Cleaning+%26+Analysis;Business+Insights+%26+Dashboards;Churn+Analysis+%7C+EDA+%7C+Reporting" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👩🏽‍💻 About Me
 
-I’m a **Data Analyst** with a strong focus on **problem solving and business impact**.  
-I specialize in transforming raw data into **clear insights, dashboards, and actionable recommendations** that support decision-making.
+I’m a **results-driven Data Analyst** passionate about using data to solve business problems and support smart decision-making.
 
-🌍 Open to **international collaboration**, **remote projects**, and **data-driven startups**.
+I specialize in:
+- Cleaning messy datasets
+- Analyzing customer behavior
+- Building dashboards that tell clear stories
+- Turning numbers into **actionable insights**
+
+📌 *I’ve worked on real-world datasets including customer churn analysis, sales performance, and exploratory data analysis.*
 
 ---
 
-## 🧠 What I Do Best
+## 🧠 Core Skills & Tools
 
+### 📊 Data Analysis Stack
 <p align="center">
-  <img src="images/analysis_flow.png" width="80%" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,excel,github" />
 </p>
 
-- 📉 Customer churn & retention analysis  
-- 📊 KPI design and performance tracking  
-- 🔍 Root-cause analysis & data storytelling  
-- 📈 Business dashboards for stakeholders  
-
----
-
-## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="images/tech_stack.png" width="70%" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-- 🐍 **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- 🗄️ **SQL** (Joins, CTEs, Window Functions)
-- 📊 **Power BI** (DAX, Interactive Dashboards)
-- ☕ **Java** (Data Processing & Backend Logic)
-- 🔧 Git & GitHub
-
 ---
 
-## 📊 Featured Visual Work
+## 🔍 What I Can Do With Data
 
-### 📉 Churn Analysis Dashboard (Power BI)
 <p align="center">
-  <img src="./images/powerbi_churn_dashboard.png" width="85%" />
+  <img src="https://img.icons8.com/color/96/combo-chart--v1.png"/>
+  <img src="https://img.icons8.com/color/96/database.png"/>
+  <img src="https://img.icons8.com/color/96/python--v1.png"/>
+  <img src="https://img.icons8.com/color/96/pie-chart.png"/>
 </p>
 
-**Insights Delivered**
-- Identified high-risk customer segments
-- Revealed churn drivers linked to usage and billing
-- Supported retention strategy decisions
+- Data Cleaning & Transformation  
+- Exploratory Data Analysis (EDA)  
+- Customer Churn Analysis  
+- KPI Tracking & Reporting  
+- Dashboard Design (Power BI)  
 
 ---
 
-### 🐍 Python Data Analysis
+## 📂 Featured Projects
+
+### 📌 Customer Churn Analysis
+🛠 **Tools:** Python, SQL, Excel  
+📊 **Focus:** Customer retention, behavior patterns  
+✅ Identified churn drivers and actionable insights  
+
+### 📌 Sales Performance Dashboard
+🛠 **Tools:** Power BI, Excel  
+📊 **Focus:** Revenue, trends, KPIs  
+✅ Built interactive dashboards for decision-making  
+
+### 📌 Exploratory Data Analysis (EDA)
+🛠 **Tools:** Python (Pandas, Matplotlib, Seaborn)  
+📊 **Focus:** Data discovery & insight extraction  
+
+👉 *More projects are actively being added.*
+
+---
+
+## 📈 GitHub Analytics
+
 <p align="center">
-  <img src="./images/python_visuals.png" width="85%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true"/>
 </p>
 
-- Exploratory Data Analysis (EDA)
-- Trend analysis & correlations
-- Clean, reproducible insights
-
----
-
-### 🗄️ SQL Business Queries
 <p align="center">
-  <img src="./images/sql_analysis.png" width="85%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
 </p>
 
-- Revenue & churn metrics
-- Customer segmentation queries
-- Performance optimization
-
 ---
 
-## 📁 Featured Projects
-
-| Project | Business Problem | Tools |
-|------|----------------|------|
-| Customer Churn Analysis | Reduce customer loss | Python, SQL, Power BI |
-| Sales Performance Dashboard | Identify growth opportunities | Power BI, SQL |
-| Customer Segmentation | Improve targeting | Python, SQL |
-| Data Automation Tools | Improve efficiency | Java, Python |
-
----
-
-## 🤝 Why Collaborate With Me?
-
-✔ Strong **business-first mindset**  
-✔ Clear communication & storytelling  
-✔ Visually compelling dashboards  
-✔ Reliable and collaborative team member  
-
----
-
-## 📫 Contact
+## 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
+  <a href="https://www.linkedin.com/in/jenny-nwadike-042b6433b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jenny%20Nwadike-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  ⭐ Thanks for visiting my GitHub profile — let’s build data-driven solutions together.
-</p>
+⭐️ *If you like what you see, feel free to explore my repositories or connect with me.*
+
+
+ 
+
+
 
